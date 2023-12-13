@@ -1,0 +1,14 @@
+C:\Desarrollos\Mios\Tienda\Tienda\bin\Debug\net8.0\Tienda.exe
+C:\Desarrollos\Mios\Tienda\Tienda\bin\Debug\net8.0\Tienda.deps.json
+C:\Desarrollos\Mios\Tienda\Tienda\bin\Debug\net8.0\Tienda.runtimeconfig.json
+C:\Desarrollos\Mios\Tienda\Tienda\bin\Debug\net8.0\Tienda.dll
+C:\Desarrollos\Mios\Tienda\Tienda\bin\Debug\net8.0\Tienda.pdb
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.AssemblyInfoInputs.cache
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.AssemblyInfo.cs
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.dll
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\refint\Tienda.dll
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.pdb
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\Tienda.genruntimeconfig.cache
+C:\Desarrollos\Mios\Tienda\Tienda\obj\Debug\net8.0\ref\Tienda.dll
